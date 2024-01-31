@@ -33,7 +33,7 @@ header h1 {
     padding-top: 50px;
     font-variant: small-caps; /* Letras maiúsculas mas não tão 'gritantes' como se usássemos (text-transform: uppercase;) */
     font-family: var(--fonte2);
-    font-size: 10vh;
+    font-size: 10vw;
 }
 
 header p {
